@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilyas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Enthusiast;Learning%20AI;IT%20-%20Professional;%20Loves%20to%20Learn%20New%20Things;Open%20to%20Hackathons;Open%20to%20Coding%20Contests&font=Fira%20Code¢er=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Enthusiast;Learning%20AI;IT%20-%20Professional;Loves%20to%20Learn%20New%20Things;Open%20to%20Hackathons;Open%20to%20Coding%20Contests&font=Fira%20Code&center=true&width=440&height=45&color=bfcfde&vCenter=true&size=22&pause=1000">
 </p>
 
 <h1> 📖 About Me </h1> 
