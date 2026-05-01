@@ -91,21 +91,20 @@
 
 ### Others 
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=vercel,powershell,kali,postman,figma,&perline=4" /> 
-</div>
+  <div align="center">  
+       <img src="https://skillicons.dev/icons?i=vercel,powershell,postman,figma,&perline=4" /> 
+  </div>
 </a>
 </td> 
 </tr>
 
-<!-- New DevOps Row -->
 <tr>
 <td colspan="3" valign="top">
 
 ### DevOps
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions, docker,kubernetes,jenkins,terraform,azure,aws,linux,bash&perline=6" />
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions, docker,kubernetes,jenkins,terraform,azure,aws,linux,bash,&perline=6" />
 </div>
 </a>
 
