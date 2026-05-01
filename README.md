@@ -33,7 +33,9 @@
 
 ##  💻 Tech Stack:
 
-<table><tr><td valign="top" width="25%">
+<table>
+<tr>
+<td valign="top" width="25%">
   
 ### Machine Learning
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
@@ -41,26 +43,31 @@
        <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,&perline=4" />   <!--   bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign -->
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,&perline=4" />
 </div>
 </a>
- </td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
         
 ### Backend
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=4" /> <!--   firebase,nodejs,express -->
+       <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=4" />
 </div>
 </a>
-
 </td>
 </tr>
-<tr><td valign="top" width="25%">
+
+<tr>
+<td valign="top" width="25%">
 
 ### Code Editors  
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
@@ -68,26 +75,44 @@
        <img src="https://skillicons.dev/icons?i=vscode,pycharm,&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
     
-###  Languages
+### Languages
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,qt,latex,flask,django&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
 
 ### Others 
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,figma,linux,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=vercel,powershell,kali,postman,figma,&perline=4" /> 
 </div>
 </a>
- </td> 
+</td> 
 </tr>
-</table>
 
+<!-- New DevOps Row -->
+<tr>
+<td colspan="3" valign="top">
+
+### DevOps
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions, docker,kubernetes,jenkins,terraform,azure,aws,linux,bash&perline=6" />
+</div>
+</a>
+
+</td>
+</tr>
+
+</table>
 
 ## 📊 GitHub Stats:
 <!-- This is my deployed API, I think it's not public. I have to check it later -->
