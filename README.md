@@ -82,7 +82,7 @@
 ### Languages
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,qt,latex,flask,django&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,&perline=4" /> 
 </div>
 </a>
 </td>
@@ -104,7 +104,7 @@
 ### DevOps
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions, docker,kubernetes,jenkins,terraform,azure,aws,linux,bash,&perline=6" />
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,jenkins,terraform,azure,aws,linux,bash,&perline=6" />
 </div>
 </a>
 
