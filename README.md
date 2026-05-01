@@ -99,16 +99,17 @@
 </tr>
 
 <tr>
-<td colspan="3" valign="top">
 
+<td width="25%"></td>
+<td width="50%" valign="top">
 ### DevOps
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,jenkins,terraform,azure,aws,linux,bash,&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,terraform,azure,aws,linux,bash&perline=6" />
 </div>
 </a>
-
 </td>
+<td width="25%"></td>
 </tr>
 
 </table>
